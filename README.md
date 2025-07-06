@@ -32,6 +32,7 @@ The system returns to Normal Mode.
 
 The ultrasonic sensor and DC motor resume operation.
 
+---
 
 🔴 If the pattern is incorrect:
 
