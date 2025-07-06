@@ -215,7 +215,9 @@ void loop() {
         digitalWrite(blueLED, LOW);
         digitalWrite(buzzer, LOW);
 
-         alertMode = false;
+        lifes = 0;
+
+        alertMode = false;
       }
 
       else{
