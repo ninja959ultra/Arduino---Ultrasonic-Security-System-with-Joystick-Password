@@ -43,6 +43,8 @@ The system remains in Alert Mode.
 
 NOTE: The user has only three attempts to enter the correct pattern.
 
+---
+
 If all attempts fail, the LCD displays "System Locked", and the system remains disabled until the reset button is pressed.
 
 
