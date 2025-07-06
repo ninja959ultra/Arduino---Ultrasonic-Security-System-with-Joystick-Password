@@ -2,8 +2,6 @@
 
 
 # Description:
-Arduino---Ultrasonic-Security-System-with-Joystick-Password
-
 This project is a smart security system using an Arduino, an ultrasonic sensor, three LEDs, a buzzer, a DC motor, a joystick, and an LCD display.
 
 At startup, the system operates in Normal Mode, where the ultrasonic sensor is active.
@@ -23,6 +21,7 @@ A beep sound is played using the buzzer.
 
 The white LED blinks to indicate the move has been recorded.
 
+---
 
 🟢 If the entered pattern is correct:
 
@@ -40,6 +39,7 @@ The red LED turns on.
 
 The system remains in Alert Mode.
 
+---
 
 NOTE: The user has only three attempts to enter the correct pattern.
 
